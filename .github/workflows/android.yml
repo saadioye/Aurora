@@ -100,3 +100,4 @@ jobs:
           path: base/app/build/outputs/apk/release/Aurora-*.apk
           if-no-files-found: error
           retention-days: 14
+          
